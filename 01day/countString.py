@@ -1,7 +1,7 @@
 name = input("Whats your name? ")
 
+lengthName = len(name)
 
-
-print(len(name))
+print(lengthName)
 
 
