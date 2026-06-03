@@ -7,3 +7,4 @@ print(f"pay the bill, {friends[randomFriend]}!")
 
 print(f"pay the bill,{random.choice(friends)}")
 
+print(len(friends))
